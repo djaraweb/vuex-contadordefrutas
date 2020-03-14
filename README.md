@@ -1,19 +1,28 @@
-# vuexcontadorfrutas.djara.dev
+# Mi Primera Aplicación usando Vuex
 
-## Project setup
+## Descripcion
+
 ```
-npm install
+En esta aplicacion, se realizan practicas uzando vuex para el control de estados en Vue.
+Para estilos del Frontend se ha tomado como maquedator Boostrap.
 ```
 
-### Compiles and hot-reloads for development
+## Frontend de la Aplicacion
+
+![Contador de Frutas](src/assets/Screenshot_1.png)
+
+### Compila y recarga los archivos en modo Desarrollo
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila y Minimiza los archivos para el despliegue de Producción
+
 ```
 npm run build
 ```
 
-### Customize configuration
+### Configuración Personalizada
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
